@@ -1,0 +1,16 @@
+h1{
+    background-color: antiquewhite;
+
+    margin:50px;
+    padding: 30px;
+}
+
+div{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin:auto;
+
+    /* margin-top: 30px;
+    margin-left: 450px; */
+}
